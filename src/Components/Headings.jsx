@@ -2,7 +2,7 @@ import { motion } from 'motion/react';
 import { s } from 'motion/react-client';
 import React from 'react'
 import { GoArrowUpRight } from "react-icons/go";
-import  { contentImage } from "../Images/contentImage.jpg" 
+import contentImage from "../Images/contentImage.jpg" 
 
 const Headings = () => {
   return (
